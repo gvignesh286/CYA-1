@@ -25,4 +25,5 @@ Over the 2024–2025 academic year, I conducted a large-scale internship job sea
 
 - [`reflection.md`](./reflection.md) — Critical reflection on the experience, decisions made, and lessons learned
 - GiriVignesh_ResumeFinal_Internships.pdf — Resume versions used throughout the application season 
-- [`/screenshots`](./screenshots/) — Screenshots of application portals, LinkedIn activity, networking events 
+- LinkedIn Profile — https://www.linkedin.com/in/giri-venkatesh-vignesh-b26a5a226/
+- Costco IT Networking Event: https://www.linkedin.com/posts/giri-venkatesh-vignesh-b26a5a226_grateful-to-have-attended-the-costco-technology-activity-7428322520216309761-C9Vi?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjAts4BNvwKVvz9-Z_kUfjK3g_j7ea-kO8
