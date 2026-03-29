@@ -24,5 +24,5 @@ Over the 2024–2025 academic year, I conducted a large-scale internship job sea
 ## Repo Contents
 
 - [`reflection.md`](./reflection.md) — Critical reflection on the experience, decisions made, and lessons learned
-- [`/resumes`](./resumes/) — Resume versions used throughout the campaign 
+- GiriVignesh_ResumeFinal_Internships.pdf — Resume versions used throughout the application season 
 - [`/screenshots`](./screenshots/) — Screenshots of application portals, LinkedIn activity, networking events 
