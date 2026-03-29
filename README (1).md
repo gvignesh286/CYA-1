@@ -6,9 +6,9 @@ Over the 2024–2025 academic year, I conducted a large-scale internship job sea
 
 ## Career Goals
 
-**Short-term:** Secure a summer 2025 internship in SWE or PM. While the primary application cycle has wound down, I am continuing to apply to roles that are still being posted.
+**First:** I want to find an internship during summer 2025 in either Software Development (SWE) or Project Management (PM). There are still a few positions being recruited for, so I will continue applying to those until I get one.
 
-**Long-term:** Graduate in Spring 2026 and land a full-time position in Project Management or Software Engineering. I am open to pursuing an internship into my senior year as an alternative path if a full-time offer does not materialize earlier.
+**Second:** My goal is to graduate from school (University Name) in the Spring of 2026 and be offered a job in either Project Management or Software Development. If I cannot find a job before I graduate, I would like to pursue a summer internship for my senior year.
 
 ## Deliverable Summary
 
@@ -24,5 +24,5 @@ Over the 2024–2025 academic year, I conducted a large-scale internship job sea
 ## Repo Contents
 
 - [`reflection.md`](./reflection.md) — Critical reflection on the experience, decisions made, and lessons learned
-- [`/resumes`](./resumes/) — Resume versions used throughout the campaign *(add your resume PDFs here)*
-- [`/screenshots`](./screenshots/) — Screenshots of application portals, LinkedIn activity, networking events *(add as applicable)*
+- [`/resumes`](./resumes/) — Resume versions used throughout the campaign 
+- [`/screenshots`](./screenshots/) — Screenshots of application portals, LinkedIn activity, networking events 
